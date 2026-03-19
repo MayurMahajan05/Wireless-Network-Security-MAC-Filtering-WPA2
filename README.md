@@ -9,6 +9,11 @@ This project demonstrates the setup of a secure wireless network using Cisco Pac
 
 ---
 
+## 📊 Implementation
+![Network Diagram](MAC_Filtering_Implementation.png)
+
+---
+
 ## 🛠️ Technologies Used
 - Cisco Packet Tracer
 - Wireless Networking
@@ -28,11 +33,6 @@ This project demonstrates the setup of a secure wireless network using Cisco Pac
 ## 🔐 Security Features
 - WPA2 Password Protection
 - MAC Address Filtering (Only authorized devices allowed)
-
----
-
-## 📊 Implementation
-![Network Diagram](implementation.png)
 
 ---
 
